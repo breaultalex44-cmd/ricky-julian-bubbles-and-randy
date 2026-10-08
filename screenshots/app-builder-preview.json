@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rinkboard",
+      "hasCanvas": false,
+      "bodyTextLen": 564,
+      "bodyTextHash": "8e630ad8669b8cb2b7d3645e3543402a77195a9575ad39091cc16bfd254edac7",
+      "bodyTextPrefix": "Rinkboard 32 2026-27 · lock 10-06 · next 10-10 Updating Thirty-t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rinkboard",
+      "hasCanvas": false,
+      "bodyTextLen": 560,
+      "bodyTextHash": "93e690891f7b2831228ad91cd8d9a1c42129bcc1e24eb203f3f099a236426f56",
+      "bodyTextPrefix": "Rinkboard 32 2026-27 · lock 10-06 · next 10-10 Live Thirty-two c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
